@@ -196,6 +196,8 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 This policy is effective as of 2022-12-29
 
 
+### Battery Health
+
 **Privacy Policy**
 
 Convenient Magic Tools built the Battery Health app as a Free app. This SERVICE is provided by Convenient Magic Tools at no cost and is intended for use as is.
